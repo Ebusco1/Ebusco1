@@ -1,6 +1,6 @@
 # Hi, am Ekpele Chukwuebuka!
 
-I'm a certified Data Analyst, AI Business and Technical Practitioner and AI Prompt Engineer- now bulding impactful projects using Microsoft Excel, Microsoft Power Bi, Tableau, Python, SQl and Co-Pilot.
+I'm a certified Data Analyst, AI Business and Technical Practitioner and AI Prompt Engineer- now bulding impactful projects using Microsoft Excel, Microsoft Power Bi, Tableau, Python, SQl, Co-Pilot and other AI platforms.
 
 ## Tools I Work With
 - Microsoft Excel
